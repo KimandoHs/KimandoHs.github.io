@@ -10,12 +10,15 @@
 }
 
 .toc_title {
+	
     font-weight: 800;
     text-align: left;
 }
 
 #page-content {
-	padding: 150px;
+background: #FFF;
+padding-left: 150px;
+padding-right: 150px;
 text-align: left; 
 }
 
