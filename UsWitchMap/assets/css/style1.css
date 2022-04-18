@@ -26,3 +26,7 @@ text-align: left;
     list-style: outside none none !important;
 text-align: left;
 }
+
+#list2 {
+text-indent:0px; 
+}

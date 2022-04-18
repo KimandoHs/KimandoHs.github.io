@@ -9,6 +9,11 @@
 			background-repeat: no-repeat;
 			background-size: 1110px 369px;
 			font-size:20px;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+text-align:center;
 			
 		}
 		
@@ -21,3 +26,9 @@
 		background-color: #f2ca7e; /* Tint color */
 		background-blend-mode: multiply;
 		}
+
+		.centerImage
+{
+ text-align:center;
+ display:block;
+}
