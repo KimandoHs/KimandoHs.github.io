@@ -80,7 +80,8 @@ h2 span {
 	opacity: 0;
 }
 figure {
-	
+	width: 730px;
+	height: 480 px; 
 	margin-left: auto;
   	margin-right: auto;
 	padding: 0;
