@@ -14,7 +14,7 @@ function animateScript() {
   tID = setInterval(() => {
 
     document.getElementById("image").style.backgroundPosition =
-      `-${position}px 0px`;
+      `-${position}px 100px`;
     //we use the ES6 template literal to insert the variable "position"
 
     if (position < 960) {
