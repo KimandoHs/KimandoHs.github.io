@@ -8,7 +8,7 @@ function stopAnimate() {
 function animateScript() {
 
   var position = 64; //start position for the image slicer
-  const interval = 20; //100 ms of interval for the setInterval()
+  const interval = 800; //100 ms of interval for the setInterval()
   const diff = 64; //diff as a variable for position offset
 
   tID = setInterval(() => {
